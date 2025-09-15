@@ -17,4 +17,12 @@ body{
     flex-direction: column;
     align-items: center;
     font-family: 'Roboto', sans-serif;
+    font-size: 62.5%;
+    background-color: bisque;
+}
+
+.Delius_Headers{
+    font-family: 'Delius';
+    font-size: 3rem;
+    margin-top: 1rem;
 }
