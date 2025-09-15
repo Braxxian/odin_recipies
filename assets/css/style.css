@@ -1,3 +1,2 @@
-body{
-    background-image: linear-gradient(to right,rgb(179, 230, 179),rgb(230, 230, 167));
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
