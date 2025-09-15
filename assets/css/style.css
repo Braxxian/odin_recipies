@@ -24,5 +24,29 @@ body{
 .Delius_Headers{
     font-family: 'Delius';
     font-size: 4rem;
-    margin-top: 1rem;
+    margin-top: 5rem;
+}
+
+.Roboto_Headers{
+    font-family: 'Roboto';
+    font-size: 2rem;
+    font-weight: 300;
+    margin-top: 2rem;
+}
+
+.circle{
+    border-radius: 50%;
+    border-width: 0.2rem;
+    margin-top: 2rem;
+}
+
+.recipie_link{
+    font-size: 2rem;
+    font-weight: 300;
+    margin-top: 1.5rem;
+}
+
+.href{
+    text-decoration: none;
+    color: brown;
 }
