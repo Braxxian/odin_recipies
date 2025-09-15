@@ -1,2 +1,5 @@
 # odin_recipies
-Odin_project_recipie_challenge
+
+## Odin Project foundations
+
+### Assigment One
