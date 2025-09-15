@@ -50,3 +50,21 @@ body{
     text-decoration: none;
     color: brown;
 }
+
+.home{
+    position:fixed; /* This will position it relative to the viewport */
+    top: 1rem;      /* Adjust as needed for vertical position */
+    right: 1rem;    /* This will push the button to the right side */
+    z-index: 100;   /* Ensure it's on top of other elements */
+}
+
+.home-button{
+    padding: 0.5rem 1.5rem; /* Adjust the button size*/
+    cursor: pointer;
+    background-color: rgb(189, 134, 114);
+    border-radius: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 2rem;
+
+}
