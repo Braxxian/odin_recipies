@@ -46,6 +46,23 @@ body{
     margin-top: 1.5rem;
 }
 
+.text{
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 300;
+}
+
+.align-text-left{
+    text-align: left;
+}
+
+.sub-heading{
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    text-decoration: underline;
+}
+
 .href{
     text-decoration: none;
     color: brown;
