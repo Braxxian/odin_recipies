@@ -38,6 +38,7 @@ body{
     border-radius: 50%;
     border-width: 0.2rem;
     margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 .recipie_link{
@@ -47,9 +48,12 @@ body{
 }
 
 .text{
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     text-align: center;
     font-weight: 300;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .align-text-left{
